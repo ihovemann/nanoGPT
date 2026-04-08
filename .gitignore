@@ -10,3 +10,22 @@ __pycache__/
 input.txt
 env/
 venv/
+
+
+# Virtual environment
+venv/
+
+# Model checkpoints
+out-shakespeare-*/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Large binary files
+data/shakespeare_char/train.bin
+data/shakespeare_char/val.bin
+data/shakespeare_char/input.txt
+
+# OS files
+Thumbs.db
