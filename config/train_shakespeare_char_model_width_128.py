@@ -1,5 +1,5 @@
-# Baseline configuration
-out_dir = 'out-shakespeare-baseline'
+# Model width configuration
+out_dir = 'out-shakespeare-char_model_width_128'
 eval_interval = 250
 eval_iters = 200
 log_interval = 10
@@ -12,8 +12,8 @@ gradient_accumulation_steps = 1
 batch_size = 64
 block_size = 256
 n_layer = 6
-n_head = 6
-n_embd = 384
+n_head = 4 # changed to 4 from 6
+n_embd = 128 #changed to 128 from 384
 dropout = 0.2
 learning_rate = 1e-3
 max_iters = 5000
@@ -24,3 +24,4 @@ warmup_iters = 100
 weight_decay = 1e-1
 device = 'cuda' # "mps" for mac, "cuda" for windows, if you have a GPU
 compile = False # set True only on Linux with GPU
+# init_from = 'resume' #resume from the save checkpoint
