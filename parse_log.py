@@ -38,7 +38,7 @@ def parse_log_file(log_file_path):
     }
 
     print(f"\nParsing: {log_file_path}")
-
+    
     # Try different encodings, including UTF-16
     for encoding in ['utf-8', 'utf-16', 'utf-16-le', 'utf-8', 'latin-1', 'cp1252']:
         try:
