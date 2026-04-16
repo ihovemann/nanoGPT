@@ -1,0 +1,67 @@
+Overriding: out_dir = out-shakespeare-char_model_depth_8
+Overriding: device = cuda
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 500
+number of parameters: 14.19M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+
+ANGELO:
+And coward to look the sister of Buckingham--
+
+MARCIUS:
+My Lord, I pray you, that did have now this cursed
+at my bound of the office of the wanting
+cause of the good ladies of over-bands
+Will be piled by self-work, and like a devil
+To undertake the face of us.
+But, this well in your like and oath
+But bringing you and your fair eyes for your great soul
+Lead none for the rest. Why, there is not the people?
+
+MARCIUS:
+This are too discoved: but is great to her to mark.
+
+CORIOLANUS:
+What! wh
+---------------
+
+Men pass of marriage: I would have no child to put a
+present matter than a can with the condemned scorn
+speaks to castle. And as I thank thee, have dead no longer mouths
+been should entrail the news of the Romans?
+
+VOLUMNIA:
+Nay, no; I neither sing, out of all
+the king's vices.
+
+VOLUMNIA:
+By my lord, I hope I have no speed: so I say
+it is, and put on't.
+
+VIRGILIA:
+Forth one time to our feeting.
+
+VIRGILIA:
+In what that I have letter me be the crown?
+
+VIRGILIA:
+Art thou a counter for Gloucester? t
+---------------
+
+Most conserves a flower of Henry's death to age,
+And in the doom of that have loved on thee:
+Thinks thee before thy cousin's ground and where he should return
+The Infamy of Friar Lodowick comes be keep.
+
+GLOUCESTER:
+The leisure will it be a sure of grieft;
+But which is the shame of the spoil's colours of just.
+We are through to chain, and be not in charity.
+
+HASTINGS:
+Well, brother, Tybalt,
+Good queen, for our follower eleven was we intendured:
+Ay, if they may claim from the other arrivalled
+The
+---------------

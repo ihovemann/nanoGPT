@@ -1,0 +1,74 @@
+Overriding: out_dir = out-shakespeare-char_model_depth_2
+Overriding: device = cuda
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 500
+number of parameters: 3.57M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+
+ANGELO:
+And come, he shall see him to Baynard's son:
+I think, and be a thief weary to be determine,
+And that thou darest to hear them of this body!
+Where is a grief, so I in last, that virtue,
+Which never services like to be their melting:
+The princess, why should she rather is dead.
+
+GLOUCESTER:
+It is not too much best, and do revenge
+For Edward's great seatest his creature's regard;
+But thou know'st, for Edward king my father,
+As thou sad as a cursed hell.
+
+GLOUCESTER:
+And I will come to thee
+---------------
+
+Men pleasure, such a pent game.
+Is not thy life? then thou wilt any show to be so,
+And then be gone to fight still mine.
+
+ANGELO:
+What is the season?
+
+ISABELLA:
+I must be to desire in the sea:
+Here is the gods and young Claudio,
+And then it die to so much.
+
+ISABELLA:
+O, what is the matter.
+
+CLAUDIO:
+A great lady, sir, your senseless is a state.
+
+ISABELLA:
+I do this, I have done.
+
+LUCIO:
+The sun and approaches when I should say
+this belly as I say as the world watch the
+duke.
+
+ISABELLA:
+Now, by t
+---------------
+
+Men talk of war.
+
+First Gentleman:
+Pardon me, I know you wear your counsel of you
+are not so tribunes; but to infirmity of his mistress
+which he should go about him instruction.
+
+Second Murderer:
+I pray you, sir: therefore, go to make my hand;
+and I, if that you by my love
+that will be spoken too.
+
+Second Murderer:
+Then he that hath been been it is comes beloved,
+here lady to your first: as you did buy, they say
+the tribunes of the gentleman of your friends, and
+piece your eyes, sir, and let me 
+---------------
