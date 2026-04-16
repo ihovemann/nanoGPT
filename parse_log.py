@@ -36,11 +36,11 @@ def parse_log_file(log_file_path):
         'end_time': None,
         'total_time_ms': 0,
     }
-    
+
     print(f"\nParsing: {log_file_path}")
     
     # Try different encodings, including UTF-16
-    for encoding in ['utf-16', 'utf-16-le', 'utf-8', 'latin-1', 'cp1252']:
+    for encoding in ['utf-8', 'utf-16', 'utf-16-le', 'utf-8', 'latin-1', 'cp1252']:
         try:
             with open(log_file_path, 'r', encoding=encoding) as f:
                 lines = f.readlines()
@@ -54,9 +54,9 @@ def parse_log_file(log_file_path):
             'steps': [], 'train_losses': [], 'val_losses': [],
             'iter_nums': [], 'iter_losses': [], 'config': config, 'timing': timing_info
         }
-    
+
     iter_times = []
-    
+
     for line_num, line in enumerate(lines, 1):
         # Parse configuration parameters
         lr_match = re.search(r'learning_rate\s*=\s*([\d.e-]+)', line)

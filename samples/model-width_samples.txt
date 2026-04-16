@@ -1,0 +1,66 @@
+Overriding: out_dir = out-shakespeare-char_model_width_128
+Overriding: device = cuda
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 500
+number of parameters: 1.19M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+
+ANTIGONUS:
+There, which you that you be you will grave
+My have no bar by me us and to be determine,
+And the confess of my more own proof it.
+
+CORIOLANUS:
+What said the news? ladiest drop the death? God
+now you so, let not thee thus would by a creater's look.
+
+Second Citizen:
+And so better, demand knee Willo what evil
+To your fortune with your grace of his business;
+And first on; if he must not male of which Prince,
+So murder, being, you are advance.
+
+EDWARD:
+It is the army your honourable carel
+---------------
+
+Men pardon, marry how I would have have myself,
+Some present madam, that I can so not be body.
+
+JULIET:
+I may so, case, my lords, that is the sea
+In exception to my parts to the fair brother
+To use him and Richard: there I shall now then it
+My very of the hands bear the world unclean soul.
+
+Clown:
+For thou well I see it, and shows, he did we
+but by the sound attempet the offence
+The should eyes and approache what thou wilt say
+this bellk to cast him thy body twatch'd.
+
+PETRUCHIO:
+He should give 
+---------------
+
+Most and brows a fair of the common which could,
+I can before your comanded should meet me we mine
+Of feeding in their sovereign Warwick death
+And from and blood of his cause in close.
+
+LADY ANNE:
+The man will to the people
+And witness what she would in the deter die.
+He was too last myself the old consul,
+The service of us his charge man, and this captie.
+
+Provost:
+For thou art hear begund with voices, that thou art.
+
+GLOUCESTER:
+When you are may meet, speak.
+
+LADY ANNE:
+My lord, and wholef, th
+---------------
