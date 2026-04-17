@@ -1,0 +1,41 @@
+Overriding: out_dir = out-shakespeare-baseline
+Overriding: device = cpu
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 500
+number of parameters: 10.65M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+CLA:
+Nes the trehers, forter time shaverself re,
+To prep,
+He is,
+Shes mand the the ame self a sh, nocteat thathis not lieford ar prikes have what ing as.
+
+KINCESCAMEENTER:
+Ay, and a wit will thearge chus ward wou ne bracn as where 's the for are there she the a cou traion for speard worst ne dout whou a gre thou'll amise, you
+
+Proy:
+Aluth her ther thathe ithe now!
+Why warh, my the not,
+Welf I grew now, he I come mads:
+To of the not ou so frot BANUS:
+Mars,
+Wherewely thou were of ther'd th,
+MENES:
+---------------
+
+DUKE VING RICHAM:
+If terventimst her wer got gue brandee of sawar wher yeg III:
+PARD th he ame wham lienes son king whate, yout not hat here arre a theictill hal withe dry mos uposter yous wer my shick you the frong mader he to good ing suce,
+Hamill'd ow th the And am thims gre wishe sue ged the and exomed be fe, ball mothey this
+Swer long ung shome ast frop sombee,
+Thou whe the thir noth son'd is sire ithat thimme and a ing thy,
+With, song sweencle ling and be athe not ne bothe fire bler the an
+---------------
+
+Al then a grou thour laught
+And de wee of dee the amuce
+Of chis swe ye for the make, loverre: sumoughtathen am sh as manne the mumphou and thave nothe itwitter fall a of thy bes hat foret the therstre the be gener th fis the me ace my fort this barms,
+A brou ance ing man king the nown braing hallorem, ware is fron, faint yours hat a comest to the theret asent gray ford,
+My sather is of th se thentlethere sucrom are ance theres a come good ne no wake treat thy be dere as this wee saing nor ald Fr
+---------------
