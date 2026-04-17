@@ -1,0 +1,60 @@
+Overriding: out_dir = out-shakespeare-baseline
+Overriding: device = cpu
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 500
+number of parameters: 10.65M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+The planted for his souls world shall be infarm'd:
+More will in the scale state in a base follow,
+And fair same oppose to title with him.
+But that, as if you do put the cheque of your side,
+Which good upon your senate, looks have stooped!
+
+POLIXENES:
+What is't the chrown is a shower's daughter's womb?
+
+Second Messenger:
+But, what is the house of pity?
+
+ELBOW:
+Marry, here's a woman?
+
+ANGELO:
+I gracious which it come.
+
+PRINCE EDWARD:
+Why shall be shows here, what canst be not
+To sthrive you, God k
+---------------
+
+Death thou hear'st foreign to speak for thee,
+And thou wilt save thee no guilty pleasure?
+And many live me so, gentleman, friar, that I have
+That I have till have proved made what the lads were
+But calm my death, by my fortune in our counsel
+That injudgment the Angelo at our defends,
+And in the strange of a harm, back of displeasure
+Than faults of the news desire of the field:
+Then receives not in the city of them,
+Or else hath been thee gone of claim her in the thoughts
+And the first through an
+---------------
+
+All the queen in my face, if thou wilt prove me,
+For thou shalt slay and his right noble royals
+And make my heart as manner to myself.
+
+KING RICHARD II:
+With his all power mine eyes from the virtuous.
+What then they I should be accompanion?
+
+Third Gentleman:
+The bind of that be man when they have done.
+
+KING RICHARD III:
+That I do so, then to the Lord Hastings;
+And therefore, the king is my wife, and her success
+Which the doth as mine own needs was before
+The boldness and was their head, walk of
+---------------
